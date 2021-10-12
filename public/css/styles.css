@@ -1,0 +1,66 @@
+body{
+  background-color: #6F69AC;
+  color: #FFEBA1;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 15% 0 3%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.result-body{
+  padding-top: 5%;
+}
+
+.form-h1, .recipe-name{
+  font-size: 6rem;
+  font-weight: bolder;
+  margin-bottom: 3%;
+}
+
+.form-h3{
+  font-size: 3rem;
+}
+.btn{
+  font-size: 2rem;
+  width: 30%;
+  margin: 3% auto;
+  background-color: #95DAC1;
+  color: #6F69AC;
+  font-weight: bold;
+}
+.btn:hover{
+  background-color: #adf7dc;
+  color: #6F69AC;
+}
+
+ul{
+  list-style-type: none;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  bottom: 7%;
+}
+
+.ul-left{
+  left:3%;
+}
+
+.ul-right{
+  right:3%;
+}
+
+.ul-icon{
+  font-size: 4rem;
+  margin: 10px 0;
+}
+
+.recipe-paragraph{
+  text-align: justify;
+}
+
+.recipe-img{
+  float:right;
+  width: 30%;
+  margin-left: 2%;
+}
